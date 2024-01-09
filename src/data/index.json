@@ -1,0 +1,75 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-1.png",
+      "title": "Front-End",
+      "description": "With a strong command of HTML, CSS, responsive design, React, and proficiency in leveraging CSS libraries effectively, I specialize in crafting immersive and polished front-end experiences."
+    },
+
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Graphic design",
+      "description": "With a decade of graphic design experience, I've completed 150+ projects for clients worldwide. I specialize in using Illustrator and Photoshop to create captivating visual stories that bring ideas to life"
+    },
+    {
+      "id": "4",
+      "src": "./img/product-chainn-1.png",
+      "title": "Web-design",
+      "description": "Specializing in web design, I excel in using Figma and WordPress to create visually appealing and functional websites"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/wild-oasis.png",
+      "title": "Cabins-for-rent",
+      "description": "Cabins-for-rent simplifies cabin bookings with React Query and Supabase, offering seamless reservations and an enhanced user experience.",
+      "link": "https://book-a-cabin.vercel.app"
+    },
+    {
+      "id": "2",
+      "src": "./img/furni-shop.png",
+      "title": "Furni-Heaven",
+      "description": "E-commerce app integrating Auth0 login and Stripe payments. Filters enable easy product search by manufacturer, color, price, category. Cart for simple checkout.",
+      "link": "https://furni-heaven.netlify.app/"
+    },
+    {
+      "id": "3",
+      "src": "./img/formula.png",
+      "title": "F1-Stat-Track",
+      "description": "React-based Formula 1 app: Explore the history of races, drivers, and teams since 1950. Browse, search, and discover insights. MIT License.",
+      "link": "https://f1stattrack.netlify.app"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar.png",
+
+      "description": "Very professional and a pleasure to work with such talent. Will definitely work with LEDU again shortly",
+      "author_name": "Tanakrit Somsa",
+      "author_designation": "Tanjai Gold"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar.png",
+
+      "description": "Excellent to work with, listened to our likes and requirements and worked very quickly.",
+      "author_name": "Tarah Williams",
+      "author_designation": "Redwood Advisory Group"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar.png",
+
+      "description": "Amazing designer and excellent customer service. Very easy to work with. White glove experience",
+      "author_name": "Markus Jeridk",
+      "author_designation": "Jerido Enterprise LLC"
+    }
+  ]
+}
