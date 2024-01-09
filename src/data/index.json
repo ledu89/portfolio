@@ -24,9 +24,9 @@
     {
       "id": "1",
       "src": "./img/wild-oasis.png",
-      "title": "Cabins-for-rent",
+      "title": "Easy Cabin",
       "description": "Cabins-for-rent simplifies cabin bookings with React Query and Supabase, offering seamless reservations and an enhanced user experience.",
-      "link": "https://book-a-cabin.vercel.app"
+      "link": "https://easy-cabin.vercel.app"
     },
     {
       "id": "2",
