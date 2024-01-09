@@ -3,8 +3,8 @@ function MySkills() {
   return (
     <section id="mySkills" className="skills--section">
       <div className="portfolio--container">
-        <p className="section--title">MySkills</p>
-        <h2 className="skills--section--heading">My Expertise</h2>
+        {/* <p className="section--title">My Skills</p> */}
+        <h2 className="skills--section--heading">My Skills</h2>
       </div>
       <div className="skills--section--container">
         {data?.skills?.map((item, index) => {

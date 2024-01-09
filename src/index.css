@@ -260,11 +260,15 @@ h3 {
 }
 .skills--section--heading {
   color: var(--heading-color);
-  font-size: 64px;
+  font-size: 48px;
   font-weight: 700;
 
   line-height: 77px;
 }
+/* color: var(--heading-color);
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px; */
 
 .skills--section--container {
   display: grid;
@@ -330,6 +334,9 @@ h3 {
   gap: 115px;
   grid-template-columns: repeat(2, 1fr);
 }
+.skills-section-heading {
+  font-size: 48px;
+}
 .hero--section--content {
   color: var(--heading-color);
 }
@@ -345,11 +352,19 @@ h3 {
   align-items: flex-start;
   gap: 80px;
 }
+.sections--heading {
+  font-size: 48px;
+}
 .portfolio--container-box {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
+}
+.section--heading {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 77px;
 }
 .portfolio--container {
   display: flex;
@@ -646,7 +661,8 @@ input[type="checkbox"] {
   }
   .hero--section--title,
   .hero--section-description,
-  .footer--content {
+  .footer--content,
+  .section--heading {
     text-align: center;
   }
   .skills--section--container,
@@ -690,7 +706,7 @@ input[type="checkbox"] {
   .hero--section--title,
   .skills--section--heading,
   .sections--heading {
-    font-size: 65px;
+    font-size: 48px;
     line-height: 70px;
   }
   .hero--section--content--box {
@@ -711,6 +727,9 @@ input[type="checkbox"] {
   }
   .divider {
     margin: 20px;
+  }
+  .sections--heading {
+    text-align: center;
   }
 }
 

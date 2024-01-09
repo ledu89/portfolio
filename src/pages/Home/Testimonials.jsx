@@ -5,7 +5,6 @@ function Testimonials() {
     <section className="testimonial--section" id="testimonials">
       <div className="postfolio--container-box">
         <div className="portfolio--container">
-          <p className="sub--title">Clients feedback</p>
           <h2 className="sections--heading">Customers Feedbacks</h2>
         </div>
       </div>

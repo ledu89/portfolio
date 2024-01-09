@@ -2,11 +2,10 @@ function ContactMe() {
   return (
     <section id="Contact" className="contact--section">
       <div>
-        <p className="sub--title">Get in Touch</p>
-        <h2>Contact Me</h2>
+        <h2 className="section--heading">Contact Me</h2>
         <p className="text-lg">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio,
-          molestiae.
+          Whether you have questions or exciting project ideas in mind, drop me
+          a message. I&apos;m all ears and ready to collaborate
         </p>
       </div>
       <form
@@ -46,7 +45,7 @@ function ContactMe() {
             />
           </label>
           <label htmlFor="phone-number" className="contact--label">
-            <span className="text-md">phone-number</span>
+            <span className="text-md">Phone Number</span>
             <input
               type="number"
               className="contact--input text-md"
