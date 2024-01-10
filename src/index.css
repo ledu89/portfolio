@@ -651,6 +651,12 @@ input[type="checkbox"] {
   .btn-outline-primary {
     display: none;
   }
+  .hero-btn-container {
+    gap: 16px;
+  }
+  .hero-btn-container .btn-outline-primary {
+    display: block;
+  }
   .navbar {
     padding: 15px 15px;
   }
