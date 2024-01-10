@@ -208,6 +208,10 @@ h3 {
   gap: 32px;
   background-color: var(--bg-shade);
 }
+.hero-btn-container {
+  display: flex;
+  gap: 26px;
+}
 .hero--section--content-box {
   display: flex;
   flex-direction: column;
