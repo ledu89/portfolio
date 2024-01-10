@@ -16,18 +16,27 @@ function HeroSection() {
             turn your vision into reality.
           </p>
         </div>
-
-        <Link
-          activeClass="btn-primary"
-          spy={true}
-          smooth={true}
-          offset={50}
-          duration={500}
-          to="Contact"
-          className="btn btn-primary"
-        >
-          Get in touch
-        </Link>
+        <div className="hero-btn-container">
+          <Link
+            activeClass="btn-primary"
+            spy={true}
+            smooth={true}
+            offset={50}
+            duration={500}
+            to="Contact"
+            className="btn btn-primary"
+          >
+            Get in touch
+          </Link>
+          <a
+            className="btn btn-outline-primary"
+            target="_blank"
+            href="./CV.pdf"
+            download="CV.pdf"
+          >
+            Download my CV
+          </a>
+        </div>
       </div>
       <div className="hero--section--img">
         <img src="./img/heroMe.png" alt="Hero Section" />
