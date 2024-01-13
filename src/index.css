@@ -205,7 +205,7 @@ h3 {
   padding: 133.333px 85.333px 133.333px;
   align-items: center;
   justify-content: space-between;
-  gap: 32px;
+  gap: 220px;
   background-color: var(--bg-shade);
 }
 .hero-btn-container {
@@ -783,6 +783,7 @@ input[type="checkbox"] {
   }
   .hero--section {
     margin-top: 70px;
+    gap: 32px;
   }
   .nav__hamburger {
     display: flex;
