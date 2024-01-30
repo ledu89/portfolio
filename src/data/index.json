@@ -41,6 +41,13 @@
       "title": "F1-Stat-Track",
       "description": "React-based Formula 1 app: Explore the history of races, drivers, and teams since 1950. Browse, search, and discover insights. MIT License.",
       "link": "https://f1stattrack.netlify.app"
+    },
+    {
+      "id": "4",
+      "src": "./img/dedin-salas.png",
+      "title": "Dedin Salas",
+      "description": "Working on exciting frontend design and responsiveness for a restaurant website in collaboration with www.petarplackov.com,  creating an  user-friendly digital experience.",
+      "link": "https://dedinsalas.rs"
     }
   ],
   "testimonial": [
