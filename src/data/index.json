@@ -31,7 +31,7 @@
     {
       "id": "2",
       "src": "./img/furni-shop.png",
-      "title": "Furni-Heaven",
+      "title": "Furni-Haven",
       "description": "E-commerce app integrating Auth0 login and Stripe payments. Filters enable easy product search by manufacturer, color, price, category. Cart for simple checkout.",
       "link": "https://furni-haven.netlify.app/"
     },
