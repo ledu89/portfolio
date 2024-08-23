@@ -31,8 +31,8 @@ function HeroSection() {
           <a
             className="btn btn-outline-primary"
             target="_blank"
-            href="./Dusko_Ninkov_CV.pdf"
-            download="Dusko_Ninkov_CV.pdf.pdf"
+            href="./Dusko_Ninkov-CV.pdf"
+            download="Dusko_Ninkov-CV.pdf"
           >
             Download my CV
           </a>
