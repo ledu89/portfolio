@@ -23,24 +23,24 @@
   "portfolio": [
     {
       "id": "1",
+      "src": "./img/cryptopall.png",
+      "title": "Cryptopall",
+      "description": "Cryptopall is fullstack crypto app for tracking, buying, selling, analyzing assets with real-time updates, and charts.",
+      "link": "https://cryptopall.vercel.app/login"
+    },
+    {
+      "id": "2",
       "src": "./img/wild-oasis.png",
       "title": "Easy Cabin",
       "description": "Cabins-for-rent simplifies cabin bookings with React Query and Supabase, offering seamless reservations and an enhanced user experience.",
       "link": "https://easy-cabin.vercel.app"
     },
     {
-      "id": "2",
+      "id": "3",
       "src": "./img/furni-shop.png",
       "title": "Furni-Haven",
       "description": "E-commerce app integrating Auth0 login and Stripe payments. Filters enable easy product search by manufacturer, color, price, category. Cart for simple checkout.",
       "link": "https://furni-haven.netlify.app/"
-    },
-    {
-      "id": "3",
-      "src": "./img/formula.png",
-      "title": "F1-Stat-Track",
-      "description": "React-based Formula 1 app: Explore the history of races, drivers, and teams since 1950. Browse, search, and discover insights. MIT License.",
-      "link": "https://f1stattrack.netlify.app"
     },
     {
       "id": "4",
