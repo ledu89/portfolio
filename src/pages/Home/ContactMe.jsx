@@ -1,15 +1,4 @@
-import { useRef } from "react";
-
 function ContactMe() {
-  const formRef = useRef(null);
-
-  const handleSubmit = (event) => {
-    event.preventDefault(); // Prevent default form submission
-    // Perform form submission logic (e.g., send data)
-    if (formRef.current) {
-      formRef.current.reset(); // Reset the form fields
-    }
-  };
   return (
     <section id="Contact" className="contact--section">
       <div>
@@ -20,11 +9,9 @@ function ContactMe() {
         </p>
       </div>
       <form
-        ref={formRef}
         action="https://formspree.io/f/xknllnnk"
         method="POST"
         className="contact--form--container"
-        onSubmit={handleSubmit}
       >
         <div className="container">
           <label htmlFor="first-name" className="contact--label">
